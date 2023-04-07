@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container_linha{
+    position: relative; 
+    height:40vh; 
+    width:40vw;
+}
+.container_barra{
+    position: relative; 
+    height:40vh; 
+    width:40vw;
+}
