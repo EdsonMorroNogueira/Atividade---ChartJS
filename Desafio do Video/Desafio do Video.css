@@ -1,0 +1,19 @@
+body{
+    display: flex;
+}
+
+.container_linha{
+    position: relative; 
+    height:40vh; 
+    width:40vw;
+}
+.container_barra{
+    position: relative; 
+    height:40vh; 
+    width:40vw;
+}
+body .container_donut{
+    position: relative; 
+    height:40vh; 
+    width:40vw;
+}
